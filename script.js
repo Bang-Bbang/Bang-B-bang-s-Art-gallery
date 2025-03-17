@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const gallery = document.querySelector(".gallery");
 
     const artworks = [
-        { image: "BBB 01.png", file: "BBB 01.png" },
+        { image: "images/BBB 01.png", file: "downloads/BBB 01.png" },
         { image: "images/art2.jpg", file: "downloads/art2.zip" },
         { image: "images/art3.jpg", file: "downloads/art3.zip" }
     ];
