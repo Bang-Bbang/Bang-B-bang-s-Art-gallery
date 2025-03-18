@@ -3,8 +3,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const artworks = [
         { image: "images/BBB 01.png", file: "downloads/BBB 01.png" },
-        { image: "images/art2.jpg", file: "downloads/art2.zip" },
-        { image: "images/art3.jpg", file: "downloads/art3.zip" }
+        { image: "images/BBB 02.png", file: "downloads/BBB 02.png" },
+        { image: "images/Art 03.png", file: "downloads/Art 03.png" },
     ];
 
     artworks.forEach((art) => {
