@@ -5,6 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
         { image: "images/BBB 01.png", file: "downloads/BBB 01.png" },
         { image: "images/BBB 02.png", file: "downloads/BBB 02.png" },
         { image: "images/BBB 03.png", file: "downloads/BBB 03.png" },
+        { image: "images/BBB 04.png", file: "downloads/BBB 04.png" },
     ];
 
     artworks.forEach((art) => {
